@@ -4,7 +4,11 @@
 
 ## Module 6 Challenge: Data Sourcing
 
-In this project we utilized API keys from both The New York Times and The Movie Database to find movie reviews and then gather more information about each movie reviewed. 
+In this project we utilized API keys from both The New York Times and The Movie Database to find movie reviews and then gather more information about each movie reviewed.
+
+Main python notebook (retrieve_movie_data.ipynb) is in Repo main folder.
+
+Final CSV is found at /Output/movie_data.csv.
 
 A fun little project to work through! Building queries is a bit of a pain, but interesting to see how easy it is to get data from an API. Fingers crossed I did it all correctly!!!
 
