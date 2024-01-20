@@ -8,7 +8,7 @@ In this project we utilized API keys from both The New York Times and The Movie 
 
 Main python notebook (retrieve_movie_data.ipynb) is in Repo main folder.
 
-Final CSV is found at /Output/movie_data.csv.
+Final CSV is found at /output/movie_data.csv.
 
 A fun little project to work through! Building queries is a bit of a pain, but interesting to see how easy it is to get data from an API. Fingers crossed I did it all correctly!!!
 
