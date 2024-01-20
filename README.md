@@ -34,4 +34,4 @@ The dataframe contains two columns listing dates -- release_date and publication
 The prompted lambda extract movie title from 'headline.main' is not able to handle the format of all fields. It would take a little experiementation but it appears there could be a better way. First thought is looking for the single quote character (') instead of the word review.
 
 ### TMDB Request Speed Limit
-When executed as instructed, the TMDB request counter only limits the script to fewer than 100 requests per second. This is because the script performs 2 requests every time the counter increments. Given that the API speed limit is 50 requests per second, this could pose a problem. Fortuantely, the block of code in question takes longer than 0.02s to run.
+When executed as instructed, the TMDB request counter only limits the script to fewer than 100 requests per second. This is because the script performs 2 requests every time the counter increments. Given that the API speed limit is 50 requests per second, this could pose a problem. Fortunately, the block of code in question takes longer than 0.02s to run.
